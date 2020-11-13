@@ -1,0 +1,104 @@
+items:              
+-Medical:           ID
+Medi kit -          1579
+First aid kit -     1576
+Blood bag -         1580
+Painkiller -        2709
+Morphine -          1577
+Bandage -           1578
+Antibiotic -        
+
+-Foods & Drinks:     ID
+Pizza -              1582   
+Burger -             2768
+Pasta Can -          2770
+Beans Can -          2663
+Milk -               2856
+Soda bottle -        2647
+Pepsi -              2601
+Fresh Water -        2683
+
+-Clothes:                         ID          SKIN ID
+Survivor Clothing [M]-            1247
+Survivor Clothing [W]-            1247
+Civilian Clothing [M]-            1213
+Civilian Clothing [W]-            1213
+Camouflage Clothing [M]-          1241
+Camouflage Clothing [W]-          1241
+Camouflage Clothing [F]-          1241
+Camouflage Clothing [D]-          1241
+Chemical Protection Clothing [M]- 1644
+Chemical Protection Clothing [F]- 1644
+Chemical Protection Clothing [S]- 1644
+
+-Suits:             ID             SKIN ID
+Ghillie Suit [M]-   2060
+Ghillie Suit [W]-   2060
+Ghillie Suit [F]-   2060
+Ghillie Suit [D]-   2060
+Ghillie Suit [S]-   2060
+
+-Backpacks:         ID         Slot
+Assault Pack      -3026       slot:10
+Alice Pack        -1248       slot:20
+Ghillie Backpack  -1575       slot:30
+Tourist Backpack  -1598       slot:50
+Czech Backpack    -1254       slot:60
+Coyote Backpack(t)-1252       slot:80
+Coyote Backpack(g)-1550       slot:80
+Legendary Backpack-1239       slot:100
+Army Backpack     -2114       slot:150
+
+-Car parts:                ID
+Engine-                    929
+Tire-                      1073
+Tank Parts-                1008
+Battery-                   3016
+Full Petrol Canister-      3243
+Empty Petrol Canister-     3243
+Full Oil Canister-         1650
+Empty Oil Canister-        1650
+
+-Items:    ID
+Map-       1277
+Watch-     2710
+GPS-       2976
+Toolbox-   2969
+Tent-      1279 + 3243
+
+-Primary Weapon:           ID      Ammo         Név     
+M4-                        356     5.56         M4A1
+AK-47-                     355     7.62         Ak-47
+Sniper-                    358     7.62         M40A3 Ghillie   
+Winchester 1866-           349     28ga
+SPAZ-12 Combat Shotgun-    351     28ga
+Sawn-Off Shotgun-          350     28ga
+Lee Enfield-               357     5.56
+
+-Secondary Weapon:         ID      Ammo
+M1911-                     346     9mm
+M9 SD-                     347     9mm
+PDW-                       352     45acp
+TEC-9-                     372     9mm
+MP5A5-                     353     45acp
+Desert Eagle-              348     9mm
+Hunting Knife-             335      -
+Hatchet-                   339      -
+Baseball Bat-              336      -
+Shovel-                    337      -
+Golf Club-                 333      -
+
+-Specially Weapon:         ID
+Parachute-                 371
+Tear Gas (supply)-         343
+Grenade-                   342
+Binoculars-                367
+Night Vision Goggles-      368
+Infrared Goggles-          369
+
+-Ammo:      ID
+5.56 ammo-  1271
+7.62 ammo-  2358
+9mm ammo-   3013
+45acp ammo- 3013
+28ga ammo-  2041
