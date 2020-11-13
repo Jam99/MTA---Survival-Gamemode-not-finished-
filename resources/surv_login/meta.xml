@@ -1,0 +1,5 @@
+<meta>
+	<info author="Jam"/>
+	<script src="login_c.lua" type="client"/>
+	<script src="login_s.lua" type="server"/>
+</meta>

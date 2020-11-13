@@ -1,0 +1,23 @@
+<meta>	
+    <script src="client.lua" type="client"/>
+    
+	<file src="sounds/weapon/ak.wav"/>
+	<file src="sounds/weapon/deagle.wav"/>
+	<file src="sounds/weapon/m4.wav"/>
+	<file src="sounds/weapon/mp5.wav"/>
+	<file src="sounds/weapon/pistol.wav"/>
+	<file src="sounds/weapon/shotgun.wav"/>
+	<file src="sounds/weapon/sawedoff.wav"/>
+	<file src="sounds/weapon/combatsh.wav"/>
+	<file src="sounds/weapon/sniper.wav"/>
+	<file src="sounds/weapon/rifle.wav"/>
+	<file src="sounds/weapon/tec-9.wav"/>
+	<file src="sounds/weapon/uzi.wav"/>
+	<file src="sounds/weapon/silenced.wav"/>
+	<file src="sounds/explosion/explosion1.wav"/>
+	<file src="sounds/explosion/explosion2.wav"/>
+	<file src="sounds/explosion/explosion3.wav"/>
+	<file src="sounds/explosion/molotov.wav"/>
+	<file src="sounds/explosion/close_call.wav"/>
+</meta>
+
