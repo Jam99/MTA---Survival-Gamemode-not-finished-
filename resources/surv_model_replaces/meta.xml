@@ -1,0 +1,165 @@
+<meta>
+    <info author="Jam" type="script"/>	
+    
+	<script src="replaces.lua" type="client"/>
+	
+	<!-- BACKPACKS -->
+	<file src="backpacks/coyote_backpack.dff"/>
+	<file src="backpacks/coyote_backpack_tan.txd"/>
+	<file src="backpacks/coyote_backpack_green.txd"/>
+	<file src="backpacks/army_backpack.txd"/>
+	<file src="backpacks/army_backpack.dff"/>
+	<file src="backpacks/ghillie_backpack.txd"/>
+	<file src="backpacks/ghillie_backpack.dff"/>
+	<file src="backpacks/legendary_backpack.txd"/>
+	<file src="backpacks/legendary_backpack.dff"/>
+	<file src="backpacks/tourist_backpack.txd"/>
+	<file src="backpacks/tourist_backpack.dff"/>
+	<file src="backpacks/assault_backpack.txd"/>
+	<file src="backpacks/assault_backpack.dff"/>
+	<file src="backpacks/czech_backpack.txd"/>
+	<file src="backpacks/czech_backpack.dff"/>
+	<file src="backpacks/alice_backpack.txd"/>
+	<file src="backpacks/alice_backpack.dff"/>
+	
+	<!-- SKINS -->
+	<!-- male -->
+	<file src="skins/1.dff"/>
+	<file src="skins/1.txd"/>
+	<file src="skins/2.dff"/>
+	<file src="skins/2.txd"/>
+	<file src="skins/7.dff"/>
+	<file src="skins/7.txd"/>
+	<file src="skins/14.dff"/>
+	<file src="skins/14.txd"/>
+	<file src="skins/15.dff"/>
+	<file src="skins/15.txd"/>
+	<file src="skins/16.dff"/>
+	<file src="skins/16.txd"/>
+	<file src="skins/17.dff"/>
+	<file src="skins/17.txd"/>
+	<file src="skins/18.dff"/>
+	<file src="skins/18.txd"/>
+	<file src="skins/19.dff"/>
+	<file src="skins/19.txd"/>
+	<file src="skins/20.dff"/>
+	<file src="skins/20.txd"/>
+	<file src="skins/21.dff"/>
+	<file src="skins/21.txd"/>
+	<file src="skins/22.dff"/>
+	<file src="skins/22.txd"/>
+	<file src="skins/23.dff"/>
+	<file src="skins/23.txd"/>
+	<file src="skins/24.dff"/>
+	<file src="skins/24.txd"/>
+	<file src="skins/25.dff"/>
+	<file src="skins/25.txd"/>
+	<!-- female -->
+	<file src="skins/9.dff"/>
+	<file src="skins/9.txd"/>
+	<file src="skins/10.dff"/>
+	<file src="skins/10.txd"/>
+	<file src="skins/11.dff"/>
+	<file src="skins/11.txd"/>
+	<file src="skins/12.dff"/>
+	<file src="skins/12.txd"/>
+	
+	<!-- VEHICLES -->
+	<file src="vehicles/barracks.dff"/>
+	<file src="vehicles/barracks.txd"/>
+	<file src="vehicles/mbike.dff"/>
+	<file src="vehicles/mbike.txd"/>
+	<file src="vehicles/bobcat.dff"/>
+	<file src="vehicles/bobcat.txd"/>
+	<file src="vehicles/buffalo.dff"/>
+	<file src="vehicles/buffalo.txd"/>
+	<file src="vehicles/burrito.dff"/>
+	<file src="vehicles/burrito.txd"/>
+	<file src="vehicles/camper.dff"/>
+	<file src="vehicles/camper.txd"/>
+	<file src="vehicles/clover.dff"/>
+	<file src="vehicles/clover.txd"/>
+	<file src="vehicles/dodo.dff"/>
+	<file src="vehicles/dodo.txd"/>
+	<file src="vehicles/fbirancher.dff"/>
+	<file src="vehicles/fbirancher.txd"/>
+	<file src="vehicles/freeway.dff"/>
+	<file src="vehicles/freeway.txd"/>
+	<file src="vehicles/huntley.dff"/>
+	<file src="vehicles/huntley.txd"/>
+	<file src="vehicles/infi.dff"/>
+	<file src="vehicles/infi.txd"/>
+	<file src="vehicles/injector.dff"/>
+	<file src="vehicles/injector.txd"/>
+	<file src="vehicles/landstalker.dff"/>
+	<file src="vehicles/landstalker.txd"/>
+	<file src="vehicles/maverick.dff"/>
+	<file src="vehicles/maverick.txd"/>
+	<file src="vehicles/mesa.dff"/>
+	<file src="vehicles/mesa.txd"/>
+	<file src="vehicles/moonbean.dff"/>
+	<file src="vehicles/moonbean.txd"/>
+	<file src="vehicles/nevada.dff"/>
+	<file src="vehicles/nevada.txd"/>
+	<file src="vehicles/newmav.dff"/>
+	<file src="vehicles/newmav.txd"/>
+	<file src="vehicles/patriot.dff"/>
+	<file src="vehicles/patriot.txd"/>
+	<file src="vehicles/phoenix.dff"/>
+	<file src="vehicles/phoenix.txd"/>
+	<file src="vehicles/polmav.dff"/>
+	<file src="vehicles/polmav.txd"/>
+	<file src="vehicles/quad.dff"/>
+	<file src="vehicles/quad.txd"/>
+	<file src="vehicles/raindance.dff"/>
+	<file src="vehicles/raindance.txd"/>
+	<file src="vehicles/rancher.dff"/>
+	<file src="vehicles/rancher.txd"/>
+	<file src="vehicles/reefer.dff"/>
+	<file src="vehicles/reefer.txd"/>
+	<file src="vehicles/sandking.dff"/>
+	<file src="vehicles/sandking.txd"/>
+	<file src="vehicles/sanchez.dff"/>
+	<file src="vehicles/sanchez.txd"/>
+	<file src="vehicles/sparrow.dff"/>
+	<file src="vehicles/sparrow.txd"/>
+	<file src="vehicles/tropic.dff"/>
+	<file src="vehicles/tropic.txd"/>
+	<file src="vehicles/cargobob.dff"/>
+	<file src="vehicles/cargobob.txd"/>
+	
+	<!-- WEAPONS -->
+	<file src="weapons/ak47.dff"/>
+	<file src="weapons/ak47.txd"/>
+	<file src="weapons/bat.dff"/>
+	<file src="weapons/bat.txd"/>
+	<file src="weapons/colt45.dff"/>
+	<file src="weapons/colt45.txd"/>
+	<file src="weapons/desert_eagle.dff"/>
+	<file src="weapons/desert_eagle.txd"/>
+	<file src="weapons/grenade.dff"/>
+	<file src="weapons/grenade.txd"/>
+	<file src="weapons/chromegun.dff"/>
+	<file src="weapons/chromegun.txd"/>
+	<file src="weapons/m4.dff"/>
+	<file src="weapons/m4.txd"/>
+	<file src="weapons/mp5lng.dff"/>
+	<file src="weapons/mp5lng.txd"/>
+	<file src="weapons/pdw.dff"/>
+	<file src="weapons/pdw.txd"/>
+	<file src="weapons/rifle.dff"/>
+	<file src="weapons/rifle.txd"/>
+	<file src="weapons/sawnoff.dff"/>
+	<file src="weapons/sawnoff.txd"/>
+	<file src="weapons/shotgun.dff"/>
+	<file src="weapons/shotgun.txd"/>
+	<file src="weapons/silenced.dff"/>
+	<file src="weapons/silenced.txd"/>
+	<file src="weapons/sniper.dff"/>
+	<file src="weapons/sniper.txd"/>
+	<file src="weapons/teargas.dff"/>
+	<file src="weapons/teargas.txd"/>
+	<file src="weapons/tec9.dff"/>
+	<file src="weapons/tec9.txd"/>
+</meta>
+
